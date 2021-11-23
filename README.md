@@ -1,2 +1,2 @@
 # Agnostic Events
-Light wrapper for custom events to get around to stupid `{ detail }` syntax.
+Light wrapper for custom events to get around the stupid `{ detail }` syntax.
