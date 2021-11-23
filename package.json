@@ -1,0 +1,9 @@
+{
+  "name": "agnostic-events",
+  "version": "1.0.0",
+  "description": "Trigger events across runtimes in a framework-agnostic way",
+  "main": "index.js",
+  "repository": "git@github.com:michaelplazek/agnostic-events.git",
+  "author": "Michael Plazek <michael.plazek91@gmail.com>",
+  "license": "MIT"
+}
